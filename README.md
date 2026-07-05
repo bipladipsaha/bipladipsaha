@@ -57,6 +57,14 @@ I have a strong foundational knowledge in software development, embedded systems
 
 <br><br>
 
+### 04 Telemetry
+
+<picture>
+  <img src="https://raw.githubusercontent.com/bipladipsaha/bipladipsaha/main/github-metrics.svg" alt="Telemetry Metrics" />
+</picture>
+
+<br><br>
+
 ### Contributions
 
 <picture>
