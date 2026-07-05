@@ -2,9 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Bipladip Saha"/></picture>
 
-<a href="https://portfolio-three-iota-27.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-38bdf8?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/PORTFOLIO-0284c7?style=flat-square&logoColor=ffffff" alt="Portfolio"/></picture></a>
-<a href="https://linkedin.com/in/bipladip-saha/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-38bdf8?style=flat-square&logo=linkedin&logoColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-0284c7?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></picture></a>
-<a href="mailto:bipladip555@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-38bdf8?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/EMAIL-0284c7?style=flat-square&logoColor=ffffff" alt="Email"/></picture></a>
+<a href="https://portfolio-three-iota-27.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-FBBF24?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/PORTFOLIO-EAB308?style=flat-square&logoColor=ffffff" alt="Portfolio"/></picture></a>
+<a href="https://linkedin.com/in/bipladip-saha/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-60A5FA?style=flat-square&logo=linkedin&logoColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></picture></a>
+<a href="mailto:bipladip555@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-F87171?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logoColor=ffffff" alt="Email"/></picture></a>
 
 </div>
 
