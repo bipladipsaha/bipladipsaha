@@ -12,8 +12,8 @@
 </style>
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">B.Tech student at Institute of Engineering and Management, Kolkata.</text>
-  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building backend & IoT — Python · Java · JS · Firebase · MongoDB · Scikit-learn.</text>
-  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">drawn to systems where hardware meets intelligence. scalable design & real-time handling in equal measure.</text>
+  <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">building backend &amp; IoT — Python · Java · JS · Firebase · MongoDB · Scikit-learn.</text>
+  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">drawn to systems where hardware meets intelligence. scalable design &amp; real-time handling in equal measure.</text>
 
   <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
 
