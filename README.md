@@ -2,9 +2,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Bipladip Saha"/></picture>
 
-<a href="https://portfolio-three-iota-27.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
-<a href="https://linkedin.com/in/bipladip-saha/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="mailto:bipladip555@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
+<a href="https://portfolio-three-iota-27.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-38bdf8?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/PORTFOLIO-0284c7?style=flat-square&logoColor=ffffff" alt="Portfolio"/></picture></a>
+<a href="https://linkedin.com/in/bipladip-saha/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-38bdf8?style=flat-square&logo=linkedin&logoColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-0284c7?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></picture></a>
+<a href="mailto:bipladip555@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-38bdf8?style=flat-square&logoColor=000000"/><img src="https://img.shields.io/badge/EMAIL-0284c7?style=flat-square&logoColor=ffffff" alt="Email"/></picture></a>
 
 </div>
 
