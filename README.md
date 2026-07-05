@@ -1,49 +1,59 @@
-[![@bipladipsaha's Holopin board](https://holopin.me/bipladipsaha)](https://holopin.io/@bipladipsaha)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Bipladip Saha</h1>
-<h3 align="center">A passionate developer from Kolkata, India</h3>
+# Hi there! I'm Bipladip Saha 👋
 
-###
+**A passionate developer from Kolkata, India** 🇮🇳 
 
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-- 🔭 I’m currently a B.Tech CSE (AI & ML) student at **Institute of Engineering and Management, Kolkata**
-  
-- 🌱 I’m currently learning **Machine Learning, IoT, Embedded Systems, Data Structures & Algorithms**
-
-- 💬 Ask me about **Python, Java, JavaScript, Firebase, MongoDB**  
-
-- 📫 How to reach me **bipladip555@gmail.com**
-
-- ⚡ Portfolio **[https://portfolio-three-iota-27.vercel.app/](https://portfolio-three-iota-27.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://linkedin.com/in/bipladip-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://portfolio-three-iota-27.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+<a href="https://portfolio-three-iota-27.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logoColor=ffffff" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/bipladip-saha/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+<a href="mailto:bipladip555@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bipladipsaha/bipladipsaha/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+### 🚀 About Me
 
-<br clear="both">
+I’m currently a B.Tech CSE (AI & ML) student at the **Institute of Engineering and Management, Kolkata**. 
+I have a strong foundational knowledge in software development, embedded systems, and machine learning.
+
+- 🔭 I’m currently working on **Backend & Embedded Systems**
+- 🌱 I’m currently learning **Machine Learning, IoT, Data Structures & Algorithms**
+- 💬 Ask me about **Python, Java, JavaScript, Firebase, MongoDB**
+
+---
+
+### 💻 Tech Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=bipladipsaha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=0077B5&title_color=0077B5" alt="GitHub Stats" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bipladipsaha&theme=radical&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" alt="GitHub Streak" />
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bipladipsaha/bipladipsaha/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bipladipsaha/bipladipsaha/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bipladipsaha/bipladipsaha/output/github-snake.svg">
+</picture>
+
+</div>
