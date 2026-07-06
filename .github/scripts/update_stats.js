@@ -105,8 +105,9 @@ async function updateStats() {
                 const yStarts = [105, 141, 177, 213, 249];
                 const gClasses = ['', ' g2', ' g3', ' g4', ' g5'];
                 
+                const topCount = top5.length > 0 ? top5[0][1] : 1;
                 top5.forEach(([lang, count], i) => {
-                    const width = Math.max(10, Math.round((count / totalLangCount) * 270));
+                    const width = Math.max(10, Math.round((count / topCount) * 270));
                     langSVG += `    <text x="548" y="${yStarts[i]}" font-size="10">${lang}</text><rect class="bar" x="660" y="${yStarts[i]-11}" width="270" height="12"/><rect class="fill grow${gClasses[i]}" x="660" y="${yStarts[i]-11}" width="${width}" height="12"/>\n`;
                 });
                 
