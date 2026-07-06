@@ -92,7 +92,7 @@ async function updateStats() {
 
             if (file.includes('github-stats')) {
                 content = content.replace(/(TOTAL STARS<\/text><text[^>]+>)\d+(<\/text>)/, `$1${totalStars}$2`);
-                content = content.replace(/(2024 COMMITS<\/text><text[^>]+>)\d+(<\/text>)/, `$1${totalCommits}$2`);
+                content = content.replace(/(YEARLY COMMITS<\/text><text[^>]+>)\d+(<\/text>)/, `$1${totalCommits}$2`);
             } else if (file.includes('telemetry')) {
                 // <text fill="var(--bone)" class="mono" x="720" y="118" font-size="44">31</text><text fill="var(--muted)" class="mono" x="790" y="112" font-size="10" letter-spacing="2.5">REPOSITORIES</text>
                 content = content.replace(/(font-size="44">)\d+(<\/text><text[^>]+>REPOSITORIES<\/text>)/, `$1${totalRepos}$2`);
