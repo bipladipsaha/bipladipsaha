@@ -52,7 +52,7 @@
     <circle class="dot d4" cx="584" cy="148" r="2.5" fill="var(--bone)"/>
     <circle class="ping" cx="622" cy="112" r="4" stroke="var(--accent)" fill="none"/>
     <circle class="dot d5" cx="622" cy="112" r="3" fill="var(--accent)"/>
-    <text fill="var(--dim)" class="mono" x="392" y="272" font-size="9.5" letter-spacing="1.5">'23</text>
+    <text fill="var(--dim)" class="mono" x="392" y="272" font-size="9.5" letter-spacing="1.5">'24</text>
     <text fill="var(--dim)" class="mono" x="524" y="272" font-size="9.5" letter-spacing="1.5">'25</text>
     <text fill="var(--dim)" class="mono" x="640" y="272" font-size="9.5" letter-spacing="1.5">'26</text>
     <text fill="var(--muted)" class="mono dot d6" x="392" y="300" font-size="10" letter-spacing="1.5">trend — <tspan fill="var(--accent)">accelerating</tspan></text>
